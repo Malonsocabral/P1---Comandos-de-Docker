@@ -25,6 +25,9 @@ Para comprobar a súa IP, utilizamos o comando `ifconfig`, e para facer ping, `p
 Debido a problemas na miña pripia experiencia, debemos tener instaladas con anterioridade certas cosas, aunque so vou deixar os comando para que sexa mias sinxelo a proxima vez,os comandos son os seguintes: `apt update`, `apt install -y iputils-ping` e `apt install -y net-tools`.
 
 5. Crea un contenedor coo nome 'bono', pódes facer ping entre os contenedores?
+>[!NOTE]
+>
+>Prueba de nota
 
 6. Se pechas as terminales, qué pasa coo contenedor?
 
