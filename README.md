@@ -1,9 +1,9 @@
 # P1---Comandos-de-Docker
 
 ## 1. Descargar e comprobar que unha imaxe está no teu equipo
-Para obtener una imagen de Docker, podemos ejecutar el siguiente comando: `docker pull {Nombre de la imagen}`, en este ejemplo, utilizaremos la imagen correspondiente a nginx.
+Para obter unha imagen de Docker, podemos executar o siguiente comando: `docker pull {Nome_imaxe}`, neste ejemplo, utilizaremos a imagen correspondiente a _nginx_.
 
-Para verificar si unha imaxe foi descargada no tu sistema, debes utilizar o comando `docker images`.
+Para verificar se unha imaxe foi descargada no tu sistema, debes utilizar o comando `docker images`. Onde se listaran todas as imaxes existentes no teu sistema
 
 ## 2. Crear un contenedor sen nome, queda arrincado?, cómo obtés o nome?
 Para iniciar un contenedor sen asignarle un nome, usamos o comando `docker run -d nginx`.
