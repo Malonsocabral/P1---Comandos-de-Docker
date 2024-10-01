@@ -1,4 +1,4 @@
-# P1---Comandos-de-Docker
+# Practica 1---Comandos-de-Docker---Marcos Alonso Cabral, ASIR2
 
 ## 1. Descargar e comprobar que unha imaxe está no teu equipo
 Para obter unha imagen de Docker, podemos executar o siguiente comando: `docker pull {Nome_imaxe}`, neste ejemplo, utilizaremos a imagen correspondiente a _nginx_.
